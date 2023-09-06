@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarath-kb&label=Profile%20views&color=0e75b6&style=flat" alt="sarath-kb" /> </p>
 
-<p align="left"> \</p>
 
 - 🌱 I’m currently learning **New Technology**
 
